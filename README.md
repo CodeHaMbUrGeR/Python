@@ -1,2 +1,1 @@
-# Python
-Tutorial for Python
+# [Wiki](https://github.com/CodeHaMbUrGeR/Python/wiki)
